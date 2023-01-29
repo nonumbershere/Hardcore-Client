@@ -1,4 +1,1 @@
-# Hardcore-Client
-Hardcore client for http://mtsl.dk/csgo/
-
-Discord Server: 
+# Moved to: https://github.com/Fault-Utilities/Hardcore-Client-csgo-clicker-mod-menu
